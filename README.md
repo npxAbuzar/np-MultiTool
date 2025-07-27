@@ -1,4 +1,4 @@
-![NPMT Banner](https://github.com/npxAbuzar/np-MultiTool/blob/main/banner.png?raw=true)
+![NPMT Banner](https://github.com/npxAbuzar/np-MultiTool/blob/main/npmultitool.jpeg?raw=true)
 
 
 # np-MultiTool
