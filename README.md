@@ -46,7 +46,10 @@ This tool works on:
 
 1. **Clone or Download the tool:**
 ``git clone https://github.com/npxAbuzar/np-MultiTool.git``
-``cd npmuli.py``
+
+
+``cd np-MultiTool``
+
 **Run the tool:**
 ``python npmulti.py``
 
