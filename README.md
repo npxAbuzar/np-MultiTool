@@ -49,3 +49,21 @@ This tool works on:
 ``cd npmuli.py``
 **Run the tool:**
 ``python npmulti.py``
+
+**Then install all with:**
+
+``pip install -r requirements.txt``
+
+## 🔐 Disclaimer
+
+This tool is for **educational purposes only**.  
+The creator is **not responsible** for any misuse.  
+Use responsibly, ethically, and legally.
+
+
+
+## 👑 Credits
+
+- **Created by:** `npxarmy`  
+- **Contact:** jassonmiler363@gmail.com  
+- **Made with:** Python + Love for Ethical Hacking ❤️‍🔥
